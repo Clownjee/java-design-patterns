@@ -12,3 +12,5 @@
 - [设计模式系列10--装饰者模式](https://juejin.im/post/5850dd02128fe1006b4dcd22)
 
 - [真正的深入浅出“设计模式” - 最易懂的设计模式解析](http://www.jianshu.com/p/6e5eda3a51af)
+
+- [设计模式系列](http://liuwangshu.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/)
